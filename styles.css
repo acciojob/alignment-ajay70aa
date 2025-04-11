@@ -46,4 +46,10 @@
 .center {
 	text-align: center;
 }
-
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  border-collapse: collapse;
+}
